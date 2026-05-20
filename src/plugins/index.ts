@@ -30,6 +30,9 @@ export const plugins: Plugin[] = [
       media: true,
     },
     token: process.env.BLOB_READ_WRITE_TOKEN || '',
+
+    // Bypass Vercel's server upload limit (4.5MB)
+    clientUploads: true,
   }),
   redirectsPlugin({
     collections: ['pages', 'posts'],
