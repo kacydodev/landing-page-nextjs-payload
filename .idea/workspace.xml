@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a9b8c11-4865-40f4-bb50-f4be1ad14dd9" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "kacydodev"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/kacydodev/landing-page-nextjs-payload.git",
+    "accountId": "420b0ce8-da75-4db0-a353-767749ba1bc8"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.000041859533928" />
+      <entry key="MS500" value="1.4974385209045389" />
+      <entry key="S2" value="4.555175754237604" />
+      <entry key="S5" value="6.331149354103431" />
+      <entry key="S10" value="7.111910782747781" />
+      <entry key="S30" value="8.25196892721705" />
+      <entry key="S60" value="10.258908447277985" />
+      <entry key="M2" value="13.497956074420689" />
+      <entry key="M5" value="17.560584339433717" />
+      <entry key="M10" value="19.553919988999468" />
+      <entry key="M15" value="20.314013227062233" />
+      <entry key="M30" value="21.128013114105443" />
+      <entry key="H1" value="21.556492535895988" />
+      <entry key="H2" value="21.78270121202984" />
+      <entry key="H4" value="22.294591844208746" />
+      <entry key="D1" value="34.98459670602387" />
+      <entry key="W1" value="45.54699963992354" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="4.7824943269283396E-217" />
+      <entry key="M5" value="2.9638879795499456E-87" />
+      <entry key="M10" value="5.444160155202955E-44" />
+      <entry key="M15" value="1.4364392443899303E-29" />
+      <entry key="M30" value="3.790038580792982E-15" />
+      <entry key="H1" value="6.156328922980796E-8" />
+      <entry key="H2" value="2.481195059438251E-4" />
+      <entry key="H4" value="0.015751809608544193" />
+      <entry key="D1" value="0.5006740421607396" />
+      <entry key="W1" value="0.9058979909826141" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.024221290645439635" />
+      <entry key="MS500" value="0.9685515573361908" />
+      <entry key="S2" value="4.378204041210363" />
+      <entry key="S5" value="6.255094902712555" />
+      <entry key="S10" value="7.072866146589093" />
+      <entry key="S30" value="8.237586255204873" />
+      <entry key="S60" value="10.250380544659567" />
+      <entry key="M2" value="13.492905156204248" />
+      <entry key="M5" value="17.55825587591077" />
+      <entry key="M10" value="19.552689758920014" />
+      <entry key="M15" value="20.313177088128622" />
+      <entry key="M30" value="21.127586695211598" />
+      <entry key="H1" value="21.55627723104855" />
+      <entry key="H2" value="21.78284103528764" />
+      <entry key="H4" value="22.310287286827705" />
+      <entry key="D1" value="35.48525024844245" />
+      <entry key="W1" value="46.45289336841865" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="3JIwkwTfuD0tf8uvfwz1aMOaaj9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "js.debugger.nextJs.config.created.client": "true",
+    "js.debugger.nextJs.config.created.server": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/kcdo/Documents/Github/landing-page-nextjs-payload",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "pnpm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.intellij.reactbuddy.reactComponents" value="false" />
+        <entry key="com.intellij.reactbuddy.reactInspector" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.Next.js: server-side">
+    <configuration name="Next.js: debug client-side" type="JavascriptDebugType" uri="http://localhost:3000/">
+      <method v="2" />
+    </configuration>
+    <configuration name="Next.js: server-side" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-WS-261.25134.101" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a9b8c11-4865-40f4-bb50-f4be1ad14dd9" name="Changes" comment="" />
+      <created>1789362036810</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789362036810</updated>
+      <workItem from="1789362037852" duration="3203000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
